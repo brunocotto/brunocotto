@@ -3,7 +3,9 @@
 - 💼 Hoje trabalho como Programador de Automação
 - 🛠 Estudante de Análise e Desenvolvimento de Sistemas
 - 🎯 Adquirindo habilidades de frontend com objetivo final dev fullstack
+<br><br>
 
+## ⚙️ &nbsp;GitHub Analytics
 <div align="center">
   <a href="https://github.com/brunocotto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunocotto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
