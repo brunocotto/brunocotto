@@ -1,7 +1,8 @@
-## E aí galera! Me chamo Bruno Otto
+## Olá! Eu sou o Bruno Otto
 - 💼 Hoje trabalho como Programador de Automação
 - 🛠 Estudante de Análise e Desenvolvimento de Sistemas
 - 🎯 Adquirindo habilidades de frontend com objetivo final dev fullstack
+- 
 
 <div align="center">
   <a href="https://github.com/bruno-otto">
