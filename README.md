@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Bruno Otto
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunocotto&color=blue" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunocotto&color=yellow" alt="Profile views" /> </p>
 
 - 💼 Hoje trabalho como Programador de Automação
 
