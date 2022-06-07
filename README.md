@@ -2,7 +2,6 @@
 - 💼 Hoje trabalho como Programador de Automação
 - 🛠 Estudante de Análise e Desenvolvimento de Sistemas
 - 🎯 Adquirindo habilidades de frontend com objetivo final dev fullstack
-- 
 
 <div align="center">
   <a href="https://github.com/bruno-otto">
