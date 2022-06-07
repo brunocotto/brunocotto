@@ -1,4 +1,4 @@
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">, Eu sou Bruno Otto</h1>
+## Olá, eu sou Bruno Otto👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunocotto&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Estudante de Desenvolvimento Web
