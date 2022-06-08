@@ -29,5 +29,5 @@
 <div> 
 
   ![Snake animation](https://github.com/brunocotto/brunocotto/blob/output/github-contribution-grid-snake.svg)
- 
+ xs
 </div>
