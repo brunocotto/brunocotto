@@ -27,7 +27,8 @@
   <img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 <br>  
-## ⚙️ &nbsp;Commits Analytics 
+## ⚙️ &nbsp;Commits Analytics
+  
 <div> 
   
   ![Snake animation](https://github.com/brunocotto/brunocotto/blob/output/github-contribution-grid-snake.svg)
