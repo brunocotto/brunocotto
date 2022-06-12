@@ -1,13 +1,13 @@
 ## Olá, eu sou Bruno Otto👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunocotto&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Estudante de Desenvolvimento Web
+- 🛠 Estudante de Análise e Desenvolvimento de Sistemas
+- 
+- 🔥 Desenvolvimento Frontend Web - objetivo Fullstack 
 
-- 🛠 Análise e Desenvolvimento de Sistemas
+- 🎯 Adquirindo Hardskills de forma constante
 
-- 🎯 Adquirindo habilidades de frontend
-
-- 💼 Hoje trabalho como Programador de Automação
+- 💼 Atualmente Programador de Sistemas de Automação
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
