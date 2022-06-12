@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunocotto&color=yellow" alt="Profile views" /> </p>
 
 - 🛠 Estudante de Análise e Desenvolvimento de Sistemas
-- 
+ 
 - 🔥 Desenvolvimento Frontend Web - objetivo Fullstack 
 
 - 🎯 Adquirindo Hardskills de forma constante
