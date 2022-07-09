@@ -3,7 +3,7 @@
 
 - 🛠 Estudante de Análise e Desenvolvimento de Sistemas
  
-- 🔥 Desenvolvimento Frontend Web - objetivo Fullstack 
+- 🔥 Desenvolvimento Frontend Web - Fullstack 
 
 - 🎯 Adquirindo Hardskills de forma constante
 
