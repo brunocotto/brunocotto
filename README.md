@@ -7,7 +7,7 @@
 
 - 🎯 Foco em Node e React
 
-- 💼 Atualmente Programador de Sistemas de Automação
+- 💼 Atualmente Programador de Sistemas
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
