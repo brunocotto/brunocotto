@@ -3,9 +3,9 @@
 
 - 🛠 Estudante de Análise e Desenvolvimento de Sistemas
  
-- 🔥 Desenvolvimento Frontend Web - Fullstack 
+- 🔥 Desenvolvimento Web Fullstack 
 
-- 🎯 Nodejs e React
+- 🎯 Foco em Node e React
 
 - 💼 Atualmente Programador de Sistemas de Automação
 <br><br>
