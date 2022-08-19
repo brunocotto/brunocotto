@@ -5,7 +5,7 @@
  
 - 🔥 Desenvolvimento Frontend Web - Fullstack 
 
-- 🎯 Adquirindo Hardskills de forma constante
+- 🎯 Nodejs e React
 
 - 💼 Atualmente Programador de Sistemas de Automação
 <br><br>
