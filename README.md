@@ -14,6 +14,10 @@
 <div align="center">
   <a href="https://github.com/brunocotto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunocotto&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+</div>
+
+<div align="center">
+## ⚙️ &nbsp;GitHub Analytics
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocotto&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
  <br><br>
