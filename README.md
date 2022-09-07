@@ -5,7 +5,7 @@
  
 - 🔥 Desenvolvimento Web Fullstack 
 
-- 🎯 Foco em Node.js e React
+- 🎯 Foco em Node.js e Angular
 
 - 💼 Programador de Sistemas
 <br><br>
