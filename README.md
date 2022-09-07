@@ -32,3 +32,10 @@
   ![Snake animation](https://github.com/brunocotto/brunocotto/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+ 
+ <!-- Endereços para contato -->
+
+<div> 
+<a href="https://www.linkedin.com/in/brunocotto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:bruno.ottoo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-db4a39?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
