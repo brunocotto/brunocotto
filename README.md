@@ -29,10 +29,10 @@
 </a>
 </div>
  <br><br>
- ## 🛠 &nbsp;Tech Stack
+ ## 🖥🔧 &nbsp;Programming Language
 <div style="display: inline_block"><br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,angular,nodejs,express,mongo" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python" />
 </a>
 </div>
  <br><br>
