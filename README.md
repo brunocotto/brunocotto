@@ -31,7 +31,7 @@
  
  <br><br>
  
- ## 🖥🔧 &nbsp;Programming Language
+ ## 🖥 &nbsp;Programming Language
 <div style="display: inline_block"><br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,python" />
@@ -40,17 +40,19 @@
  
  <br><br>
  
- ## 🛠 &nbsp;Tech Stack
+ ## 🛠 &nbsp;Stack Frontend
 <div style="display: inline_block"><br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,angular,nodejs,express,mongo" />
+  <img src="https://skillicons.dev/icons?i=css,html,react,angular" />
 </a>
 </div>
+ 
  <br><br>
- ## 🛠 &nbsp;Tech Stack
+ 
+ ## 🛠 &nbsp;Stack Backend
 <div style="display: inline_block"><br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,angular,nodejs,express,mongo" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongoose" />
 </a>
 </div>
  <br><br>
