@@ -28,14 +28,18 @@
   <img src="https://skillicons.dev/icons?i=linux,git,vscode" />
 </a>
 </div>
+ 
  <br><br>
+ 
  ## 🖥🔧 &nbsp;Programming Language
 <div style="display: inline_block"><br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,python" />
 </a>
 </div>
+ 
  <br><br>
+ 
  ## 🛠 &nbsp;Tech Stack
 <div style="display: inline_block"><br>
 <a href="https://skillicons.dev">
