@@ -22,7 +22,7 @@
 </div>
 <br><br>
 
-## 🛠 &nbsp;Settings
+## 🛠 &nbsp;Tools
 <div style="display: inline_block"><br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=linux,git,vscode" />
@@ -52,7 +52,7 @@
  ## 🛠 &nbsp;Stack Backend
 <div style="display: inline_block"><br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongoose" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </a>
 </div>
  <br><br>
