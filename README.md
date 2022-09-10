@@ -22,7 +22,28 @@
 </div>
 <br><br>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Settings
+<div style="display: inline_block"><br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=linux,git,vscode" />
+</a>
+</div>
+ <br><br>
+ ## 🛠 &nbsp;Tech Stack
+<div style="display: inline_block"><br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,angular,nodejs,express,mongo" />
+</a>
+</div>
+ <br><br>
+ ## 🛠 &nbsp;Tech Stack
+<div style="display: inline_block"><br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,angular,nodejs,express,mongo" />
+</a>
+</div>
+ <br><br>
+ ## 🛠 &nbsp;Tech Stack
 <div style="display: inline_block"><br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,angular,nodejs,express,mongo" />
