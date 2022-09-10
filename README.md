@@ -3,7 +3,7 @@
 
 - 🛠 Estudante de Análise e Desenvolvimento de Sistemas
  
-- 🔥 Desenvolvimento Web Fullstac
+- 🔥 Desenvolvimento Web Fullstack
 
 - 🎯 Foco em Node.js e React
 
