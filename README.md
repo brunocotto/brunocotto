@@ -1,7 +1,7 @@
 ## Olá, eu sou Bruno Otto👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunocotto&color=yellow" alt="Profile views" /> </p>
 
-- 🛠 Estudante de Análise e Desenvolvimento de sistem
+- 🛠 Estudante de Análise e Desenvolvimento de siste
  
 - 🔥 Desenvolvimento Web Fullstack
 
