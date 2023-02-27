@@ -10,18 +10,6 @@
 - 💼 Programador de Sistemas
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
-<div align="center">
-  <a href="https://github.com/brunocotto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunocotto&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-</div>
-
-## 🎲 &nbsp;Used Languages
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocotto&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-</div>
-<br><br>
-
 ## 🛠 &nbsp;Tools
 <div style="display: inline_block"><br>
 <a href="https://skillicons.dev">
