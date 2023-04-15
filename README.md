@@ -1,9 +1,9 @@
 ## Olá, eu sou Bruno Otto👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunocotto&color=yellow" alt="Profile views" /> </p>
 🛠 Estudante de Análise e Desenvolvimento de Sistemas<br><br>
-🔥 Desenvolvimento Web Fullstack<br><br>
-🎯 Foco em Node.js e React<br><br>
-💼 Programador de Sistemas
+🔥 Desenvolvimento Fullstack<br><br>
+🎯 Foco em Node.js e React Native<br><br>
+💼 System Programmer
 
 ## 🌐 Redes Sociais
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/BrunoOtto#0202) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/brunocotto/) 
