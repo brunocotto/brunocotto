@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunocotto&color=yellow" alt="Profile views" /> </p>
 🛠 Estudante de Análise e Desenvolvimento de Sistemas<br><br>
 🔥 Desenvolvimento Fullstack<br><br>
-🎯 Foco em Node.js e React Native<br><br>
+🎯 Foco em Node.js e React<br><br>
 💼 System Programmer
 
 ## 🌐 Redes Sociais
