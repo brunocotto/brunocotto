@@ -1,6 +1,6 @@
 ## Hi, i am Bruno Otto
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunocotto&color=yellow" alt="Profile views" /> </p>
-🛠 Analysis and Systems Development<br><br>
+Analysis and Systems Development<br><br>
 Backend Developer<br><br>
 ASP.NET Core and Node.js<br><br>
 
