@@ -1,8 +1,8 @@
 ## Hi, i am Bruno Otto
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunocotto&color=yellow" alt="Profile views" /> </p>
 Analysis and Systems Development<br><br>
-Software Developer<br><br>
-ASP.NET Core and Node.js<br><br>
+Software Developer Backend<br><br>
+ASP.NET Core<br><br>
 
 ## 🌐 Social Media
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/BrunoOtto#0202) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/brunocotto/) 
